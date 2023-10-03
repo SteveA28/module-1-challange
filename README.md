@@ -10,6 +10,12 @@ Additionally, in the style.css file, I streamlined the code by consolidating sim
 
 I used visual studio code to refactor the codes then uploaded it using the github webpage. 
 
+## Usage
+
+Link to the deployed application: 
+
+https://stevea28.github.io/module-1-challange/
+
 ## Credits
 
 N/A
