@@ -1,3 +1,19 @@
-* **User Story**: This is a short, simple description of a feature told from the perspective of the person who is requesting the new capability, usually a user or customer of the system. This follows an AS AN / I WANT / SO THAT format. For example, "AS A shopper visiting an online store, I WANT to place items in a shopping cart, SO THAT I can purchase them." 
+# <module-1-challange>
 
-* **Acceptance Criteria**: These are the requirements that you must meet to satisfy the scope of work. They are not exhaustive, but they do entail the minimum aspects of a working solution. Consider this a checklist of baseline requirements. Acceptance criteria can be presented in various ways. In this case, we'll use a common format called **scenario-oriented criteria** which expresses each requirement in a WHEN / THEN format. Don't worry if this doesn't make sense now; it will become very familiar to you after you complete a couple of Challenges. 
+## Description
+
+In this challenge, I undertook the task of refactoring both the HTML code and the style.css file. In the HTML file, I made significant improvements to enhance accessibility for individuals who may face challenges when viewing a webpage, such as those with visual impairments or color blindness. These improvements involved modifying accessibility tags and incorporating semantic tags to improve the overall structure and clarity of the code.
+
+Additionally, in the style.css file, I streamlined the code by consolidating similar styles into a single class, effectively reducing redundancy and eliminating unnecessary lines of code. To enhance transparency and facilitate review, I also inserted comments throughout the code, providing clear explanations of the changes I made. These comments serve as valuable documentation for anyone reviewing the code in the future.
+
+## Installation
+
+I used visual studio code to refactor the codes then uploaded it using the github webpage. 
+
+## Credits
+
+N/A
+
+## License 
+
+Please refer to the LICENSE in the repo.
